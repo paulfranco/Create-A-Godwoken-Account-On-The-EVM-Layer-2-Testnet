@@ -6,4 +6,4 @@ Create A Godwoken Account On The EVM Layer 2 Testnet
 2. A link to the Layer 1 address you funded on the Testnet Explorer.
 https://explorer.nervos.org/aggron/address/ckt1qyq9073cyjpqv9mqedgp729cc08j66t0l8jqq9vh96
 3. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
-![Screen Shot 2021-08-22 at 6 34 56 PM](https://user-images.githubusercontent.com/29502126/130381604-c046f9ff-2d05-476f-b164-22320726ecbc.png)
+![Screen Shot 2021-08-22 at 7 21 19 PM](https://user-images.githubusercontent.com/29502126/130381891-b55e4336-d918-4194-9313-9b997b25702c.png)
